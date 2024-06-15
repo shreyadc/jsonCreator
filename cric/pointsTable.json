@@ -145,13 +145,22 @@
       "runrate": "+2.596"
     },
     {
-      "teamName": "UGA",
+      "teamName": "NZ",
       "matches": "3",
       "wins": "1",
       "losses": "2",
       "draws": "0",
       "points": "2",
-      "runrate": "-4.217"
+      "runrate": "-0.241"
+    }, 
+    {
+      "teamName": "UGA",
+      "matches": "4",
+      "wins": "1",
+      "losses": "3",
+      "draws": "0",
+      "points": "2",
+      "runrate": "-4.510"
     }  ,
     {
       "teamName": "PNG",
@@ -163,15 +172,6 @@
       "runrate": "-0.886"
     },
     {
-      "teamName": "NZ",
-      "matches": "2",
-      "wins": "0",
-      "losses": "2",
-      "draws": "0",
-      "points": "0",
-      "runrate": "-2.425"
-    }, 
-    {
       "teamName": "Group D",
       "matches": "",
       "wins": "",
@@ -182,12 +182,12 @@
     }  ,
     {
       "teamName": "SA",
-      "matches": "3",
-      "wins": "3",
+      "matches": "4",
+      "wins": "4",
       "losses": "0",
       "draws": "0",
-      "points": "6",
-      "runrate": "+0.603"
+      "points": "8",
+      "runrate": "+0.470"
     },
     {
       "teamName": "BAN",
@@ -209,12 +209,12 @@
     } ,
     {
       "teamName": "NEP",
-      "matches": "2",
+      "matches": "3",
       "wins": "0",
-      "losses": "1",
+      "losses": "2",
       "draws": "1",
       "points": "1",
-      "runrate": "-0.539"
+      "runrate": "-0.293"
     },
     {
       "teamName": "SL",
