@@ -1,0 +1,73 @@
+{
+  "squad": [
+    {
+      "players": [
+        {
+          "pid": "51a3ae4d-37b0-4e44-ba63-8bb3f789b386",
+          "name": "Najmul Hossain Shanto - C"
+        },
+        {
+          "pid": "",
+          "name": "Taskin Ahmed"
+        },
+        {
+          "pid": "",
+          "name": "Jaker Ali"
+        },
+        {
+          "pid": "",
+          "name": "Litton Das"
+        },
+        {
+          "pid": "",
+          "name": "Mahedi Hasan"
+        },
+        {
+          "pid": "",
+          "name": "Mahmudullah"
+        },
+        {
+          "pid": "",
+          "name": "Mustafizur Rahman"
+        },
+        {
+          "pid": "",
+          "name": "Rishad Hossain"
+        },
+        {
+          "pid": "",
+          "name": "Shakib Al Hasan"
+        },
+        {
+          "pid": "",
+          "name": "Shoriful Islam"
+        },
+        {
+          "pid": "",
+          "name": "Soumya Sarkar"
+        },
+        {
+          "pid": "",
+          "name": "Tanvir Islam"
+        },
+        {
+          "pid": "",
+          "name": "Tanzid Hasan"
+        },
+        {
+          "pid": "",
+          "name": "Tanzim Hasan Sakib"
+        },
+        {
+          "pid": "",
+          "name": "Towhid Hridoy"
+        },
+        {
+          "pid": "",
+          "name": "Chandika Hathurusinghe - Team Coach"
+        }
+      ],
+      "name": "Bangladesh"
+    }
+  ]
+}

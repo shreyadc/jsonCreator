@@ -1,0 +1,73 @@
+{
+  "squad": [
+    {
+      "players": [
+        {
+          "pid": "6eaac800-13e7-4a07-8ee2-14acd04cc53f",
+          "name": "Mitchell Marsh - C"
+        },
+        {
+          "pid": "",
+          "name": "Ashton Agar"
+        },
+        {
+          "pid": "",
+          "name": "Pat Cummins"
+        },
+        {
+          "pid": "",
+          "name": "Tim David"
+        },
+        {
+          "pid": "",
+          "name": "Nathan Ellis"
+        },
+        {
+          "pid": "",
+          "name": "Cameron Green"
+        },
+        {
+          "pid": "",
+          "name": "Josh Hazlewood"
+        },
+        {
+          "pid": "",
+          "name": "Travis Head"
+        },
+        {
+          "pid": "",
+          "name": "Josh Inglis"
+        },
+        {
+          "pid": "",
+          "name": "Glenn Maxwell"
+        },
+        {
+          "pid": "",
+          "name": "Mitchell Starc"
+        },
+        {
+          "pid": "",
+          "name": "Marcus Stoinis"
+        },
+        {
+          "pid": "",
+          "name": "Matthew Wade"
+        },
+        {
+          "pid": "",
+          "name": "David Warner"
+        },
+        {
+          "pid": "",
+          "name": "Adam Zampa"
+        },
+        {
+          "pid": "3c38e56c-f638-4cc1-bb25-010f8ef5912d",
+          "name": "Andrew McDonald - Team Coach"
+        }
+      ],
+      "name": "Australia"
+    }
+  ]
+}

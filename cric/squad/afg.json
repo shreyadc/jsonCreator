@@ -1,0 +1,73 @@
+{
+  "squad": [
+    {
+      "players": [
+        {
+          "pid": "f0687183-ad9a-44f7-9cbf-4f7eb0cbfb5a",
+          "name": "Rashid Khan - C"
+        },
+        {
+          "pid": "",
+          "name": "Rahmanullah Gurbaz"
+        },
+        {
+          "pid": "",
+          "name": "Azmatullah Omarzai"
+        },
+        {
+          "pid": "",
+          "name": "Fareed Ahmad"
+        },
+        {
+          "pid": "",
+          "name": "Fazalhaq Farooqi"
+        },
+        {
+          "pid": "",
+          "name": "Gulbadin Naib"
+        },
+        {
+          "pid": "",
+          "name": "Ibrahim Zadran"
+        },
+        {
+          "pid": "",
+          "name": "Karim Janat"
+        },
+        {
+          "pid": "",
+          "name": "Mohammad Ishaq"
+        },
+        {
+          "pid": "",
+          "name": "Mohammad Nabi"
+        },
+        {
+          "pid": "",
+          "name": "Mujeeb Ur Rahman"
+        },
+        {
+          "pid": "",
+          "name": "Najibullah Zadran"
+        },
+        {
+          "pid": "",
+          "name": "Nangeyalia Kharote"
+        },
+        {
+          "pid": "",
+          "name": "Naveen-ul-Haq"
+        },
+        {
+          "pid": "",
+          "name": "Noor Ahmad"
+        },
+        {
+          "pid": "fc93b56d-1678-45b9-bfd1-eaeca5a1278c",
+          "name": "Jonathan Trott - Team Coach"
+        }
+      ],
+      "name": "Afghanistan"
+    }
+  ]
+}

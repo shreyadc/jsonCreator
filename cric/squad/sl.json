@@ -1,0 +1,73 @@
+{
+  "squad": [
+    {
+      "players": [
+        {
+          "pid": "ba4ba8aa-3ebb-431a-83a9-a78844a68e26",
+          "name": "Wanindu Hasaranga - C"
+        },
+        {
+          "pid": "",
+          "name": "Charith Asalanka"
+        },
+        {
+          "pid": "",
+          "name": "Dushmantha Chameera"
+        },
+        {
+          "pid": "",
+          "name": "Dhananjaya de Silva"
+        },
+        {
+          "pid": "",
+          "name": "Dilshan Madushanka"
+        },
+        {
+          "pid": "",
+          "name": "Angelo Mathews"
+        },
+        {
+          "pid": "",
+          "name": "Kamindu Mendis"
+        },
+        {
+          "pid": "",
+          "name": "Kusal Mendis"
+        },
+        {
+          "pid": "",
+          "name": "Pathum Nissanka"
+        },
+        {
+          "pid": "",
+          "name": "Matheesha Pathirana"
+        },
+        {
+          "pid": "",
+          "name": "Sadeera Samarawickrama"
+        },
+        {
+          "pid": "",
+          "name": "Dasun Shanaka"
+        },
+        {
+          "pid": "",
+          "name": "Maheesh Theekshana"
+        },
+        {
+          "pid": "",
+          "name": "Nuwan Thushara"
+        },
+        {
+          "pid": "",
+          "name": "Dunith Wellalage"
+        },
+        {
+          "pid": "bea29870-5500-4f46-a25a-48a930607523",
+          "name": "Chris Silverwood - Team Coach"
+        }
+      ],
+      "name": "Sri Lanka"
+    }
+  ]
+}

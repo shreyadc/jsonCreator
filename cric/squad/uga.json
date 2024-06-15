@@ -1,0 +1,73 @@
+{
+  "squad": [
+    {
+      "players": [
+        {
+          "pid": "4f0cb32d-cfe9-4555-9745-cae77540671b",
+          "name": "Brian Masaba - C"
+        },
+        {
+          "pid": "",
+          "name": "Riazat Ali Shah"
+        },
+        {
+          "pid": "",
+          "name": "Fred Achelam"
+        },
+        {
+          "pid": "",
+          "name": "Bilal Hassan"
+        },
+        {
+          "pid": "",
+          "name": "Cosmas Kyewuta"
+        },
+        {
+          "pid": "",
+          "name": "Juma Miyagi"
+        },
+        {
+          "pid": "",
+          "name": "Roger Mukasa"
+        },
+        {
+          "pid": "",
+          "name": "Dinesh Nakrani"
+        },
+        {
+          "pid": "",
+          "name": "Frank Nsubuga"
+        },
+        {
+          "pid": "",
+          "name": "Robinson Obuya"
+        },
+        {
+          "pid": "",
+          "name": "Ronak Patel"
+        },
+        {
+          "pid": "",
+          "name": "Alpesh Ramjani"
+        },
+        {
+          "pid": "",
+          "name": "Henry Ssenyondo"
+        },
+        {
+          "pid": "",
+          "name": "Simon Ssesazi"
+        },
+        {
+          "pid": "",
+          "name": "Kenneth Waiswa"
+        },
+        {
+          "pid": "",
+          "name": "Abhay Sharma - Team Coach"
+        }
+      ],
+      "name": "Uganda"
+    }
+  ]
+}

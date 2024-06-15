@@ -1,0 +1,73 @@
+{
+  "squad": [
+    {
+      "players": [
+        {
+          "pid": "7567e305-1b40-4eee-9290-e2fcb8804496",
+          "name": "Jos Buttler - C"
+        },
+        {
+          "pid": "",
+          "name": "Moeen Ali"
+        },
+        {
+          "pid": "",
+          "name": "Jofra Archer"
+        },
+        {
+          "pid": "",
+          "name": "Jonny Bairstow"
+        },
+        {
+          "pid": "",
+          "name": "Harry Brook"
+        },
+        {
+          "pid": "",
+          "name": "Sam Curran"
+        },
+        {
+          "pid": "",
+          "name": "Ben Duckett"
+        },
+        {
+          "pid": "",
+          "name": "Tom Hartley"
+        },
+        {
+          "pid": "",
+          "name": "Will Jacks"
+        },
+        {
+          "pid": "",
+          "name": "Chris Jordan"
+        },
+        {
+          "pid": "",
+          "name": "Liam Livingstone"
+        },
+        {
+          "pid": "",
+          "name": "Adil Rashid"
+        },
+        {
+          "pid": "",
+          "name": "Phil Salt"
+        },
+        {
+          "pid": "",
+          "name": "Reece Topley"
+        },
+        {
+          "pid": "",
+          "name": "Mark Wood"
+        },
+        {
+          "pid": "0c820e90-aaba-477b-b77c-b9e967725655",
+          "name": "Kieron Pollard - Team Coach"
+        }
+      ],
+      "name": "England"
+    }
+  ]
+}

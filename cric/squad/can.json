@@ -1,0 +1,73 @@
+{
+  "squad": [
+    {
+      "players": [
+        {
+          "pid": "eaaa1d43-559a-4608-9639-82262e70e5d7",
+          "name": "Saad Bin Zafar - C"
+        },
+        {
+          "pid": "",
+          "name": "Dilpreet Bajwa"
+        },
+        {
+          "pid": "",
+          "name": "Navneet Dhaliwal"
+        },
+        {
+          "pid": "",
+          "name": "Nikhil Dutta"
+        },
+        {
+          "pid": "",
+          "name": "Jeremy Gordon"
+        },
+        {
+          "pid": "",
+          "name": "Dilon Heyliger"
+        },
+        {
+          "pid": "",
+          "name": "Aaron Johnson"
+        },
+        {
+          "pid": "",
+          "name": "Rishiv Joshi"
+        },
+        {
+          "pid": "",
+          "name": "Junaid Siddiqui"
+        },
+        {
+          "pid": "",
+          "name": "Kaleem Sana"
+        },
+        {
+          "pid": "",
+          "name": "Nicholas Kirton"
+        },
+        {
+          "pid": "",
+          "name": "Shreyas Movva"
+        },
+        {
+          "pid": "",
+          "name": "Pargat Singh"
+        },
+        {
+          "pid": "",
+          "name": "Rayyan Pathan"
+        },
+        {
+          "pid": "",
+          "name": "Ravinderpal Singh"
+        },
+        {
+          "pid": "07e9aac5-ef89-45f4-af02-35b10186ee6b",
+          "name": "Pubudu Dassanayake - Team Coach"
+        }
+      ],
+      "name": "Canada"
+    }
+  ]
+}

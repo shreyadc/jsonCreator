@@ -1,0 +1,73 @@
+{
+  "squad": [
+    {
+      "players": [
+        {
+          "pid": "4ffc5d94-5a5f-4489-a09f-60e22090c810",
+          "name": "Babar Azam - C"
+        },
+        {
+          "pid": "",
+          "name": "Abbas Afridi"
+        },
+        {
+          "pid": "",
+          "name": "Abrar Ahmed"
+        },
+        {
+          "pid": "",
+          "name": "Azam Khan"
+        },
+        {
+          "pid": "",
+          "name": "Fakhar Zaman"
+        },
+        {
+          "pid": "",
+          "name": "Haris Rauf"
+        },
+        {
+          "pid": "",
+          "name": "Iftikhar Ahmed"
+        },
+        {
+          "pid": "",
+          "name": "Imad Wasim"
+        },
+        {
+          "pid": "",
+          "name": "Mohammad Amir"
+        },
+        {
+          "pid": "",
+          "name": "Mohammad Rizwan"
+        },
+        {
+          "pid": "",
+          "name": "Naseem Shah"
+        },
+        {
+          "pid": "",
+          "name": "Saim Ayub"
+        },
+        {
+          "pid": "",
+          "name": "Shadab Khan"
+        },
+        {
+          "pid": "",
+          "name": "Shaheen Shah Afridi"
+        },
+        {
+          "pid": "",
+          "name": "Usman Khan"
+        },
+        {
+          "pid": "95da7983-977c-4b51-9cdc-95c7721a8d02",
+          "name": "Gary Kirsten - Team Coach"
+        }
+      ],
+      "name": "Pakistan"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "squad": [
+    {
+      "players": [
+        {
+          "pid": "b341fd09-6133-4eda-acad-de15a56dbaa8",
+          "name": "Rohit Paudel - C"
+        },
+        {
+          "pid": "",
+          "name": "Aasif Sheikh"
+        },
+        {
+          "pid": "",
+          "name": "Dipendra Singh Airee"
+        },
+        {
+          "pid": "",
+          "name": "Kamal Airee"
+        },
+        {
+          "pid": "",
+          "name": "Kushal Bhurtel"
+        },
+        {
+          "pid": "",
+          "name": "Abinash Bohara"
+        },
+        {
+          "pid": "",
+          "name": "Sagar Dhakal"
+        },
+        {
+          "pid": "",
+          "name": "Gulsan Jha"
+        },
+        {
+          "pid": "",
+          "name": "Sundeep Jora"
+        },
+        {
+          "pid": "",
+          "name": "Karan KC"
+        },
+        {
+          "pid": "",
+          "name": "Kushal Malla"
+        },
+        {
+          "pid": "",
+          "name": "Pratis GC"
+        },
+        {
+          "pid": "",
+          "name": "Lalit Rajbanshi"
+        },
+        {
+          "pid": "",
+          "name": "Anil Sah"
+        },
+        {
+          "pid": "",
+          "name": "Sompal Kami"
+        },
+        {
+          "pid": "",
+          "name": "Monty Desai - Team Coach"
+        }
+      ],
+      "name": "Nepal"
+    }
+  ]
+}

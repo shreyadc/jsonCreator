@@ -1,0 +1,77 @@
+{
+  "squad": [
+    {
+      "players": [
+        {
+          "pid": "b452b12d-f444-4662-83b7-d42325a0e8ea",
+          "name": "Gerhard Erasmus - C"
+        },
+        {
+          "pid": "",
+          "name": "JJ Smit"
+        },
+        {
+          "pid": "",
+          "name": "Peter-Daniel Blignaut"
+        },
+        {
+          "pid": "",
+          "name": "Jack\tBrassell"
+        },
+        {
+          "pid": "",
+          "name": "Nikolaas Davin"
+        },
+        {
+          "pid": "",
+          "name": "Jan Frylinck"
+        },
+        {
+          "pid": "",
+          "name": "Zane Green"
+        },
+        {
+          "pid": "",
+          "name": "JP Kotze"
+        },
+        {
+          "pid": "",
+          "name": "Malan Kruger"
+        },
+        {
+          "pid": "",
+          "name": "Dylan Leicher"
+        },
+        {
+          "pid": "",
+          "name": "Tangeni Lungameni"
+        },
+        {
+          "pid": "",
+          "name": "Bernard Scholtz"
+        },
+        {
+          "pid": "",
+          "name": "Ben Shikongo"
+        },
+        {
+          "pid": "",
+          "name": "Ruben Trumpelmann"
+        },
+        {
+          "pid": "",
+          "name": "Michael van Lingen"
+        },
+        {
+          "pid": "",
+          "name": "David Wiese"
+        },
+        {
+          "pid": "",
+          "name": "Pierre de Bruyn - Team Coach"
+        }
+      ],
+      "name": "Namibia"
+    }
+  ]
+}

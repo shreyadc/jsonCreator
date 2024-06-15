@@ -1,0 +1,73 @@
+{
+  "squad": [
+    {
+      "players": [
+        {
+          "pid": "3fef81b0-c1e9-45eb-954f-519f3b33d640",
+          "name": "Aiden Markram - C"
+        },
+        {
+          "pid": "",
+          "name": "Ottneil Baartman"
+        },
+        {
+          "pid": "",
+          "name": "Gerald Coetzee"
+        },
+        {
+          "pid": "",
+          "name": "Quinton de Kock"
+        },
+        {
+          "pid": "",
+          "name": "Bjorn Fortuin"
+        },
+        {
+          "pid": "",
+          "name": "Reeza Hendricks"
+        },
+        {
+          "pid": "",
+          "name": "Marco Jansen"
+        },
+        {
+          "pid": "",
+          "name": "Heinrich Klaasen"
+        },
+        {
+          "pid": "",
+          "name": "Keshav Maharaj"
+        },
+        {
+          "pid": "",
+          "name": "David Miller"
+        },
+        {
+          "pid": "",
+          "name": "Anrich Nortje"
+        },
+        {
+          "pid": "",
+          "name": "Kagiso Rabada"
+        },
+        {
+          "pid": "",
+          "name": "Ryan Rickelton"
+        },
+        {
+          "pid": "",
+          "name": "Tabraiz Shamsi"
+        },
+        {
+          "pid": "",
+          "name": "Tristan Stubbs"
+        },
+        {
+          "pid": "45c8416f-8dfc-4c9e-b16d-c2f1a4ebfe10",
+          "name": "Rob Walter - Team Coach"
+        }
+      ],
+      "name": "South Africa"
+    }
+  ]
+}

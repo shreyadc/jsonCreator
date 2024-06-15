@@ -1,0 +1,73 @@
+{
+  "squad": [
+    {
+      "players": [
+        {
+          "pid": "a46cfa8b-96ae-4fb1-9499-65b8ce7e9634",
+          "name": "Kane Williamson - C"
+        },
+        {
+          "pid": "",
+          "name": "Finn Allen"
+        },
+        {
+          "pid": "",
+          "name": "Trent Boult"
+        },
+        {
+          "pid": "",
+          "name": "Michael Bracewell"
+        },
+        {
+          "pid": "",
+          "name": "Mark Chapman"
+        },
+        {
+          "pid": "",
+          "name": "Devon Conway"
+        },
+        {
+          "pid": "",
+          "name": "Lockie Ferguson"
+        },
+        {
+          "pid": "",
+          "name": "Matt Henry"
+        },
+        {
+          "pid": "",
+          "name": "Daryl Mitchell"
+        },
+        {
+          "pid": "",
+          "name": "James Neesham"
+        },
+        {
+          "pid": "",
+          "name": "Glenn Phillips"
+        },
+        {
+          "pid": "",
+          "name": "Rachin Ravindra"
+        },
+        {
+          "pid": "",
+          "name": "Mitchell Santner"
+        },
+        {
+          "pid": "",
+          "name": "Ish Sodhi"
+        },
+        {
+          "pid": "",
+          "name": "Tim Southee"
+        },
+        {
+          "pid": "902e67e9-bbb4-4d89-8280-befa012c815a",
+          "name": "Gary Stead - Team Coach"
+        }
+      ],
+      "name": "New Zealand"
+    }
+  ]
+}

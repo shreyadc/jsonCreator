@@ -1,0 +1,73 @@
+{
+  "squad": [
+    {
+      "players": [
+        {
+          "pid": "3333be17-1a96-4960-8fad-4bf5478236b9",
+          "name": "Monank Patel - C"
+        },
+        {
+          "pid": "",
+          "name": "Aaron Jones"
+        },
+        {
+          "pid": "",
+          "name": "Ali Khan"
+        },
+        {
+          "pid": "",
+          "name": "Corey Anderson"
+        },
+        {
+          "pid": "",
+          "name": "Andries Gous"
+        },
+        {
+          "pid": "",
+          "name": "Harmeet Singh"
+        },
+        {
+          "pid": "",
+          "name": "Jasdeep Singh"
+        },
+        {
+          "pid": "",
+          "name": "Nosthush Kenjige"
+        },
+        {
+          "pid": "",
+          "name": "Nitish Kumar"
+        },
+        {
+          "pid": "",
+          "name": "Milind Kumar"
+        },
+        {
+          "pid": "",
+          "name": "Saurabh Netravalkar"
+        },
+        {
+          "pid": "",
+          "name": "Nisarg Patel"
+        },
+        {
+          "pid": "",
+          "name": "Shayan Jahangir"
+        },
+        {
+          "pid": "",
+          "name": "Steven Taylor"
+        },
+        {
+          "pid": "",
+          "name": "Shadley van Schalkwyk"
+        },
+        {
+          "pid": "2a27cb77-a770-4aa5-b897-82202deceef5",
+          "name": "Stuart Law - Team Coach"
+        }
+      ],
+      "name": "USA"
+    }
+  ]
+}

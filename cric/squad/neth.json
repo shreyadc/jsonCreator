@@ -1,0 +1,73 @@
+{
+  "squad": [
+    {
+      "players": [
+        {
+          "pid": "160f7e12-13e0-4bda-872f-25ea59f010f3",
+          "name": "Scott Edwards - C"
+        },
+        {
+          "pid": "",
+          "name": "Wesley Barresi"
+        },
+        {
+          "pid": "",
+          "name": "Bas de Leede"
+        },
+        {
+          "pid": "",
+          "name": "Aryan Dutt"
+        },
+        {
+          "pid": "",
+          "name": "Sybrand Engelbrecht"
+        },
+        {
+          "pid": "",
+          "name": "Vivian Kingma"
+        },
+        {
+          "pid": "",
+          "name": "Kyle Klein"
+        },
+        {
+          "pid": "",
+          "name": "Michael Levitt"
+        },
+        {
+          "pid": "",
+          "name": "Teja Nidamanuru"
+        },
+        {
+          "pid": "",
+          "name": "Max O'Dowd"
+        },
+        {
+          "pid": "",
+          "name": "Tim Pringle"
+        },
+        {
+          "pid": "",
+          "name": "Saqib Zulfiqar"
+        },
+        {
+          "pid": "",
+          "name": "Logan van Beek"
+        },
+        {
+          "pid": "",
+          "name": "Paul van Meekeren"
+        },
+        {
+          "pid": "",
+          "name": "Vikramjit Singh"
+        },
+        {
+          "pid": "c33372b3-8a79-44b8-b297-8b2801853eb3",
+          "name": "Ryan Cook - Team Coach"
+        }
+      ],
+      "name": "Netherlands"
+    }
+  ]
+}

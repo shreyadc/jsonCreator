@@ -1,0 +1,73 @@
+{
+  "squad": [
+    {
+      "players": [
+        {
+          "pid": "0d608ad7-bc34-4a81-8d05-5b01426acfe8",
+          "name": "Aqib Ilyas - C"
+        },
+        {
+          "pid": "",
+          "name": "Pratik Athavale"
+        },
+        {
+          "pid": "",
+          "name": "Ayaan Khan"
+        },
+        {
+          "pid": "",
+          "name": "Bilal Khan"
+        },
+        {
+          "pid": "",
+          "name": "Fayyaz Butt"
+        },
+        {
+          "pid": "",
+          "name": "Kaleemullah"
+        },
+        {
+          "pid": "",
+          "name": "Khalid Kail"
+        },
+        {
+          "pid": "",
+          "name": "Mehran Khan"
+        },
+        {
+          "pid": "",
+          "name": "Mohammad Nadeem"
+        },
+        {
+          "pid": "",
+          "name": "Naseem Khushi"
+        },
+        {
+          "pid": "",
+          "name": "Kashyap Prajapati"
+        },
+        {
+          "pid": "",
+          "name": "Rafiullah"
+        },
+        {
+          "pid": "",
+          "name": "Shakeel Ahmed"
+        },
+        {
+          "pid": "",
+          "name": "Shoaib Khan"
+        },
+        {
+          "pid": "",
+          "name": "Zeeshan Maqsood"
+        },
+        {
+          "pid": "e6c0f0c4-1dfe-4d07-abbc-3bbdcedf7f7d",
+          "name": "Duleep Mendis - Team Coach"
+        }
+      ],
+      "name": "Oman"
+    }
+  ]
+}

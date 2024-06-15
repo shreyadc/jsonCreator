@@ -1,0 +1,73 @@
+{
+  "squad": [
+    {
+      "players": [
+        {
+          "pid": "c699ec2b-a5f6-4ee0-a42d-79391b65b293",
+          "name": "Rovman Powell - C"
+        },
+        {
+          "pid": "",
+          "name": "Alzarri Joseph"
+        },
+        {
+          "pid": "",
+          "name": "Johnson Charles"
+        },
+        {
+          "pid": "",
+          "name": "Roston Chase"
+        },
+        {
+          "pid": "",
+          "name": "Shimron Hetmyer"
+        },
+        {
+          "pid": "",
+          "name": "Shai Hope"
+        },
+        {
+          "pid": "",
+          "name": "Akeal Hosein"
+        },
+        {
+          "pid": "",
+          "name": "Shamar Joseph"
+        },
+        {
+          "pid": "",
+          "name": "Brandon King"
+        },
+        {
+          "pid": "",
+          "name": "Obed McCoy"
+        },
+        {
+          "pid": "",
+          "name": "Gudakesh Motie"
+        },
+        {
+          "pid": "",
+          "name": "Nicholas Pooran"
+        },
+        {
+          "pid": "",
+          "name": "Andre Russell"
+        },
+        {
+          "pid": "",
+          "name": "Sherfane Rutherford"
+        },
+        {
+          "pid": "",
+          "name": "Romario Shepherd"
+        },
+        {
+          "pid": "0e1069ee-5b51-4056-b075-f28c5e3663b5",
+          "name": "Daren Sammy - Team Coach"
+        }
+      ],
+      "name": "West Indies"
+    }
+  ]
+}

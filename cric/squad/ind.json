@@ -1,0 +1,73 @@
+{
+  "squad": [
+    {
+      "players": [
+        {
+          "pid": "03bda674-3916-4d64-952e-00a6c19c01e1",
+          "name": "Rohit Sharma - C"
+        },
+        {
+          "pid": "",
+          "name": "Hardik Pandya"
+        },
+        {
+          "pid": "",
+          "name": "Arshdeep Singh"
+        },
+        {
+          "pid": "",
+          "name": "Jasprit Bumrah"
+        },
+        {
+          "pid": "",
+          "name": "Yuzvendra Chahal"
+        },
+        {
+          "pid": "",
+          "name": "Shivam Dube"
+        },
+        {
+          "pid": "",
+          "name": "Ravindra Jadeja"
+        },
+        {
+          "pid": "",
+          "name": "Yashasvi Jaiswal"
+        },
+        {
+          "pid": "",
+          "name": "Virat Kohli"
+        },
+        {
+          "pid": "",
+          "name": "Kuldeep Yadav"
+        },
+        {
+          "pid": "",
+          "name": "Mohammed Siraj"
+        },
+        {
+          "pid": "",
+          "name": "Rishabh Pant"
+        },
+        {
+          "pid": "",
+          "name": "Axar Patel"
+        },
+        {
+          "pid": "",
+          "name": "Sanju Samson"
+        },
+        {
+          "pid": "",
+          "name": "Suryakumar Yadav"
+        },
+        {
+          "pid": "ca0203eb-78b9-407d-963b-5d40f6588b80",
+          "name": "Rahul Dravid - Team Coach"
+        }
+      ],
+      "name": "India"
+    }
+  ]
+}

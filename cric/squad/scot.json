@@ -1,0 +1,73 @@
+{
+  "squad": [
+    {
+      "players": [
+        {
+          "pid": "d13ac258-ecaf-40de-a370-825f068c3ffe",
+          "name": "Richie Berrington - C"
+        },
+        {
+          "pid": "",
+          "name": "Oli Carter"
+        },
+        {
+          "pid": "",
+          "name": "Matthew Cross"
+        },
+        {
+          "pid": "",
+          "name": "Bradley Currie"
+        },
+        {
+          "pid": "",
+          "name": "Chris Greaves"
+        },
+        {
+          "pid": "",
+          "name": "Jack Jarvis"
+        },
+        {
+          "pid": "",
+          "name": "Michael Jones"
+        },
+        {
+          "pid": "",
+          "name": "Michael Leask"
+        },
+        {
+          "pid": "",
+          "name": "Brandon McMullen"
+        },
+        {
+          "pid": "",
+          "name": "George Munsey"
+        },
+        {
+          "pid": "",
+          "name": "Safyaan Sharif"
+        },
+        {
+          "pid": "",
+          "name": "Chris Sole"
+        },
+        {
+          "pid": "",
+          "name": "Charlie Tear"
+        },
+        {
+          "pid": "",
+          "name": "Mark Watt"
+        },
+        {
+          "pid": "",
+          "name": "Brad Wheal"
+        },
+        {
+          "pid": "",
+          "name": "Doug Watson - Team Coach"
+        }
+      ],
+      "name": "Scotland"
+    }
+  ]
+}

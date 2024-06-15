@@ -1,0 +1,73 @@
+{
+  "squad": [
+    {
+      "players": [
+        {
+          "pid": "3e56b2c2-d0b9-498d-8a86-30b9eb04e481",
+          "name": "Assad Vala - C"
+        },
+        {
+          "pid": "",
+          "name": "Charles Amini"
+        },
+        {
+          "pid": "",
+          "name": "Sese Bau"
+        },
+        {
+          "pid": "",
+          "name": "Kiplin Doriga"
+        },
+        {
+          "pid": "",
+          "name": "Jack Gardner"
+        },
+        {
+          "pid": "",
+          "name": "Hiri Hiri"
+        },
+        {
+          "pid": "",
+          "name": "Semo Kamea"
+        },
+        {
+          "pid": "",
+          "name": "John Kariko"
+        },
+        {
+          "pid": "",
+          "name": "Kabua Morea"
+        },
+        {
+          "pid": "",
+          "name": "Alei Nao"
+        },
+        {
+          "pid": "",
+          "name": "Lega Siaka"
+        },
+        {
+          "pid": "",
+          "name": "Chad Soper"
+        },
+        {
+          "pid": "",
+          "name": "Tony Ura"
+        },
+        {
+          "pid": "",
+          "name": "Norman Vanua"
+        },
+        {
+          "pid": "",
+          "name": "Hila Vare"
+        },
+        {
+          "pid": "7ead5b77-f843-4312-9aa1-43d1faf09564",
+          "name": "Phil Simmons - Team Coach"
+        }
+      ],
+      "name": "Papua New Guinea"
+    }
+  ]
+}
