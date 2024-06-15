@@ -1,46 +1,6 @@
 {
   "scheduleInfo": "",
   "matches": [
-
-    {
-      "date": "2024-06-13T00:00:00.000Z",
-      "dateTimeGMT": "2024-06-13T00:30:00.000Z",
-      "team1": "West Indies",
-      "team2": "New Zealand",
-      "team1squadURL": "https://pastebin.com/raw/GMdqn9sk",
-      "team2squadURL": "https://pastebin.com/raw/EnqX0iRX",
-      "type": "Group B",
-      "matchStarted": false,
-      "venue": "Brian Lara Cricket Academy, Tarouba",
-      "unique_id": "13262",
-      "cricAPI_matchId": "ebc2fbc4-06d1-4d65-8e97-b02115a59c36"
-    },
-    {
-      "date": "2024-06-13T00:00:00.000Z",
-      "dateTimeGMT": "2024-06-13T14:30:00.000Z",
-      "team1": "Bangladesh",
-      "team2": "Netherlands",
-      "team1squadURL": "https://pastebin.com/raw/KQusTcx1",
-      "team2squadURL": "https://pastebin.com/raw/teQh8JAa",
-      "type": "Group D",
-      "matchStarted": false,
-      "venue": "Arnos Vale Ground, Arnos Vale, St Vincent",
-      "unique_id": "13263",
-      "cricAPI_matchId": "29489f2a-f500-4cf9-99d3-74170619a3c4"
-    },
-    {
-      "date": "2024-06-13T00:00:00.000Z",
-      "dateTimeGMT": "2024-06-13T19:00:00.000Z",
-      "team1": "England",
-      "team2": "Oman",
-      "team1squadURL": "https://pastebin.com/raw/A1CtEYRK",
-      "team2squadURL": "https://pastebin.com/raw/Eh5FdddH",
-      "type": "Group C",
-      "matchStarted": false,
-      "venue": "Sir Vivian Richards Stadium, North Sound, Antigua",
-      "unique_id": "13264",
-      "cricAPI_matchId": "37f27c0e-60fa-40eb-812e-e9910f292687"
-    },
     {
       "date": "2024-06-14T00:00:00.000Z",
       "dateTimeGMT": "2024-06-14T00:30:00.000Z",
