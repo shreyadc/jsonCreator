@@ -1,0 +1,54 @@
+{
+  "scheduleInfo": "",
+  "matches": [
+ 
+    {
+      "date": "2024-05-21T00:00:00.000Z",
+      "dateTimeGMT": "2024-05-21T14:00:00.000Z",
+      "team1": "Kolkata Knight Riders",
+      "team2": "Sunrisers Hyderabad",
+      "team1squadURL": "https://pastebin.com/raw/v5bCUuc7",
+      "team2squadURL": "https://pastebin.com/raw/KCk3zZJq",
+      "type": "Qualifier 1",
+      "unique_id": "13293",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "cricAPI_matchId": "12da3b2c-3c11-43d2-9140-71f92e09434f"
+    },
+    {
+      "date": "2024-05-22T00:00:00.000Z",
+      "dateTimeGMT": "2024-05-22T14:00:00.000Z",
+      "team1": "Rajasthan Royals",
+      "team2": "Royal Challengers Bangalore",
+      "team1squadURL": "https://pastebin.com/raw/ZpyjcJva",
+      "team2squadURL": "https://pastebin.com/raw/mGx5pTyR",
+      "type": "Eliminator",
+      "unique_id": "13294",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "cricAPI_matchId": "8206e5fe-939c-4515-baac-6b81f7137c07"
+    },
+    {
+      "date": "2024-05-24T00:00:00.000Z",
+      "dateTimeGMT": "2024-05-24T14:00:00.000Z",
+      "team1": "Sunrisers Hyderabad",
+      "team2": "Rajasthan Royals",
+      "team1squadURL": "https://pastebin.com/raw/KCk3zZJq",
+      "team2squadURL": "https://pastebin.com/raw/ZpyjcJva",
+      "type": "Qualifier 2",
+      "unique_id": "13298",
+      "venue": "M. A. Chidambaram Stadium, Chennai",
+      "cricAPI_matchId": "af2828e8-3ff5-42fc-8f0e-72092629af71"
+    },
+    {
+      "date": "2024-05-26T00:00:00.000Z",
+      "dateTimeGMT": "2024-05-26T14:00:00.000Z",
+      "team1": "Kolkata Knight Riders",
+      "team2": "Sunrisers Hyderabad",
+      "team1squadURL": "https://pastebin.com/raw/v5bCUuc7",
+      "team2squadURL": "https://pastebin.com/raw/KCk3zZJq",
+      "type": "Final",
+      "unique_id": "13299",
+      "venue": "M. A. Chidambaram Stadium, Chennai",
+      "cricAPI_matchId": "b9ade71d-2e58-477c-ace1-33bf8f396353"
+    }
+  ]
+}

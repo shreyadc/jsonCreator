@@ -1,0 +1,161 @@
+[
+  {
+    "id": "c61d247d-7f77-452c-b495-2813a9cd0ac4",
+    "name": "Virat Kohli",
+    "country": "India"
+  },
+  {
+    "id": "b6e7aa41-b0bb-4b0f-8f59-59f729283be5",
+    "name": "MS Dhoni",
+    "country": "India"
+  },
+  {
+    "id": "03bda674-3916-4d64-952e-00a6c19c01e1",
+    "name": "Rohit Sharma",
+    "altNames": "Rohit Gurunath Sharma,RG Sharma",
+    "country": "India"
+  },
+  {
+    "id": "bceb7084-1dda-4d76-b691-43c5a29d39a7",
+    "name": "Mitchell Starc",
+    "country": "Australia"
+  },
+  {
+    "id": "7263e990-a9e9-4829-8adf-760d18d1315c",
+    "name": "Shubman Gill",
+    "country": "India"
+  },
+  {
+    "id": "a52b2d20-7c98-4238-9ba4-ec78419a5cc2",
+    "name": "Rishabh Pant",
+    "country": "India"
+  },
+  {
+    "id": "f0687183-ad9a-44f7-9cbf-4f7eb0cbfb5a",
+    "name": "Rashid Khan",
+    "country": "Afghanistan"
+  },
+  {
+    "id": "a90b2371-5c53-4c29-a382-9b52d40a7548",
+    "name": "Hardik Pandya",
+    "country": "India"
+  },
+  {
+    "id": "9bdb82f2-b7bd-4506-b18d-c26bd37d9b33",
+    "name": "Beth Mooney",
+    "country": "Australia"
+  },
+  {
+    "id": "9a9176d8-f3ef-45f5-b3a7-1c41f6ed6486",
+    "name": "Smriti Mandhana",
+    "country": "India"
+  },
+  {
+    "id": "0068c9d8-be69-46b9-bbef-62c74e480781",
+    "name": "Ravichandran Ashwin",
+    "country": "India"
+  },
+  {
+    "id": "ba4ba8aa-3ebb-431a-83a9-a78844a68e26",
+    "name": "Wanindu Hasaranga",
+    "country": "Sri Lanka"
+  },
+  {
+    "id": "1c5267ae-2021-44b0-b368-ff9365e05893",
+    "name": "Harmanpreet Kaur",
+    "country": "India"
+  },
+  {
+    "id": "eabbdd92-cfe8-40b1-9b57-fb45a950f818",
+    "name": "Hayley Matthews",
+    "country": "West Indies"
+  },
+  {
+    "id": "6602d875-cf56-46a3-866c-de80aaa006bc",
+    "name": "Jasprit Bumrah",
+    "altNames": "bumrah",
+    "country": "India"
+  },
+  {
+    "id": "9ae68636-48d9-488f-8adc-e62a19815d85",
+    "name": "Ishan Kishan",
+    "altNames": "Ishan Pranav Kumar Pandey Kishan,I Kishan",
+    "country": "India"
+  },
+  {
+    "id": "b3d830d8-5349-407a-bc51-59f2d15a92de",
+    "name": "Dinesh Karthik",
+    "country": "India"
+  },
+  {
+    "id": "eac0032b-055a-497b-9d4e-f54008414515",
+    "name": "Devon Conway",
+    "country": "New Zealand"
+  },
+  {
+    "id": "14361e23-6022-498a-a851-f59f19c1bd71",
+    "name": "Chamari Athapaththu",
+    "country": "Sri Lanka"
+  },
+  {
+    "id": "d13dc284-cb98-49c4-8b14-2ed7a0562612",
+    "name": "Nat Sciver-Brunt",
+    "country": "England"
+  },
+  {
+    "id": "e6d62ec5-d08d-40e0-ad7e-7172a5427861",
+    "name": "Deepti Sharma",
+    "country": "India"
+  },
+  {
+    "id": "da248274-6727-47d9-a725-a4c7c91f9ae7",
+    "name": "Sophie Ecclestone",
+    "country": "England"
+  },
+  {
+    "id": "81b446e1-bfea-45a7-a15e-062b8157a323",
+    "name": "Ravindra Jadeja",
+    "altNames": "Ravindrasinh Anirudhsinh Jadeja,Jadeja",
+    "country": "India"
+  },
+  {
+    "id": "4ad2ef53-de91-4ac2-a50a-0cde29e69177",
+    "name": "Glenn Maxwell",
+    "country": "Australia"
+  },
+  {
+    "id": "77791963-6c1b-4979-b07a-f910dee28cd9",
+    "name": "Shreyas Iyer",
+    "country": "India"
+  },
+  {
+    "id": "2a8d8640-2213-4cf6-ac7e-309d8b733e96",
+    "name": "Mohammed Siraj",
+    "country": "India"
+  },
+  {
+    "id": "4a0a483d-de7f-4313-b2ed-8eceb3d8bb45",
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh"
+  },
+  {
+    "id": "a034346c-b408-4d29-a0f0-8b12430be28e",
+    "name": "KL Rahul",
+    "country": "India"
+  },
+  {
+    "id": "13b3d56e-0fba-4d31-a174-d211211404e2",
+    "name": "Pat Cummins",
+    "country": "Australia"
+  },
+  {
+    "id": "4ffc5d94-5a5f-4489-a09f-60e22090c810",
+    "name": "Babar Azam",
+    "country": "Pakistan"
+  },
+	{
+      "id": "97e9fec3-81bd-4018-a803-422c7d6d53aa",
+      "name": "Keshav Maharaj",
+      "country": "South Africa"
+    }
+]
