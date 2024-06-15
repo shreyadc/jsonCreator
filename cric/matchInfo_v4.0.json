@@ -1,0 +1,116 @@
+{
+"visibleVCsArray":[
+"ipl",
+"allMatches",
+"news",
+"feeds"
+],
+"shouldDisplayCustomLogos":true,
+"selectedVC":"ipl",
+"shouldDisplayNews": false,
+"shouldDisplayAffiliateAd" : false,
+"matchesCancelledString" : "",
+"shouldFetchDataFromAPICricket": true,
+"shouldDisplayPointsTableFromFBServer":false,
+"featureTournamentName":"T20 WC",
+"featureTournamentURL":"https://pastebin.com/raw/CqzeSxAi",
+"featureTeams":[
+   {
+    "teamName":"Afghanistan",
+    "teamURL":"https://pastebin.com/raw/wr7ARFhY"
+  },{
+    "teamName":"Australia",
+    "teamURL":"https://pastebin.com/raw/AvZKEkdG"
+  },{
+    "teamName":"Bangladesh",
+    "teamURL":"https://pastebin.com/raw/KQusTcx1"
+  },
+   {
+    "teamName":"Canada",
+    "teamURL":"https://pastebin.com/raw/aqbmtwdD"
+  },
+   {
+    "teamName":"England",
+    "teamURL":"https://pastebin.com/raw/A1CtEYRK"
+  },
+   {
+    "teamName":"India",
+    "teamURL":"https://pastebin.com/raw/FF9qQBwa"
+  },
+   {
+    "teamName":"Ireland",
+    "teamURL":"https://pastebin.com/raw/4K7xfnWa"
+  },
+   {
+    "teamName":"Namibia",
+    "teamURL":"https://pastebin.com/raw/LJV1QyDJ"
+  },
+   {
+    "teamName":"Nepal",
+    "teamURL":"https://pastebin.com/raw/rW72FtMV"
+  },
+   {
+    "teamName":"Netherlands",
+    "teamURL":"https://pastebin.com/raw/teQh8JAa"
+  },
+   {
+    "teamName":"New Zealand",
+    "teamURL":"https://pastebin.com/raw/EnqX0iRX"
+  },
+   {
+    "teamName":"Oman",
+    "teamURL":"https://pastebin.com/raw/Eh5FdddH"
+  },
+   {
+    "teamName":"Pakistan",
+    "teamURL":"https://pastebin.com/raw/m8LPkfgh"
+  },
+   {
+    "teamName":"Papua New Guinea",
+    "teamURL":"https://pastebin.com/raw/rRhbWyXi"
+  },
+   {
+    "teamName":"Scotland",
+    "teamURL":"https://pastebin.com/raw/qJLUWGdW"
+  },
+   {
+    "teamName":"South Africa",
+    "teamURL":"https://pastebin.com/raw/8UN1xhA0"
+  },
+   {
+    "teamName":"Sri Lanka",
+    "teamURL":"https://pastebin.com/raw/aAZjTCh3"
+  },
+   {
+    "teamName":"Uganda",
+    "teamURL":"https://pastebin.com/raw/75rhbrLm"
+  },
+   {
+    "teamName":"USA",
+    "teamURL":"https://pastebin.com/raw/McuACsp8"
+  },
+   {
+    "teamName":"West Indies",
+    "teamURL":"https://pastebin.com/raw/GMdqn9sk"
+  }
+  ],
+
+"news":[
+{
+"title":"England vs Australia 3rd ODI - Watch Live Score!",
+"pageURL":"https://www.google.com/search?client=firefox-b-d&q=eng+vs+aus#sie=m;/g/11hhsjyj53;5;/m/021q23;dt;fp;1;;",
+"info":""
+},
+{
+"title":"England vs Australia 2nd ODI - Watch highlights!",
+"pageURL":"https://www.youtube.com/watch?v=HDZw_-Cn6II",
+"info":""
+},
+{
+"title":"England vs Australia 1st ODI - Watch highlights!",
+"pageURL":"https://www.youtube.com/watch?v=yAn8mAywTvU",
+"info":""
+}
+]
+ 
+}
