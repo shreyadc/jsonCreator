@@ -1,0 +1,230 @@
+{
+  "points_table": [
+    {
+      "teamName": "Teams",
+      "matches": "Mat",
+      "wins": "W",
+      "losses": "L",
+     "draws": "D",
+      "points": "Pts",
+      "runrate": "NRR"
+    }  , 
+    {
+      "teamName": "Group A",
+      "matches": "",
+      "wins": "",
+      "losses": "",
+     "draws": "",
+      "points": "",
+      "runrate": ""
+    },
+    {
+      "teamName": "IND",
+      "matches": "3",
+      "wins": "3",
+      "losses": "0",
+      "draws": "0",
+      "points": "6",
+      "runrate": "+1.137"
+    } ,
+    {
+      "teamName": "USA",
+      "matches": "4",
+      "wins": "2",
+      "losses": "1",
+      "draws": "1",
+      "points": "5",
+      "runrate": "+0.127"
+    }  ,
+    {
+      "teamName": "PAK",
+      "matches": "3",
+      "wins": "1",
+      "losses": "2",
+      "draws": "0",
+      "points": "2",
+      "runrate": "+0.191"
+    } ,
+    {
+      "teamName": "CAN",
+      "matches": "3",
+      "wins": "1",
+      "losses": "2",
+      "draws": "0",
+      "points": "2",
+      "runrate": "-0.493"
+    },
+    {
+      "teamName": "IRE",
+      "matches": "3",
+      "wins": "0",
+      "losses": "2",
+      "draws": "1",
+      "points": "1",
+      "runrate": "-1.712"
+    }, 
+    {
+      "teamName": "Group B",
+      "matches": "",
+      "wins": "",
+      "losses": "",
+     "draws": "",
+      "points": "",
+      "runrate": ""
+    }   ,
+    {
+      "teamName": "AUS",
+      "matches": "3",
+      "wins": "3",
+      "losses": "0",
+      "draws": "0",
+      "points": "6",
+      "runrate": "+3.580"
+    },
+    {
+      "teamName": "SCOT",
+      "matches": "3",
+      "wins": "2",
+      "losses": "0",
+      "draws": "1",
+      "points": "5",
+      "runrate": "+2.164"
+    },
+    {
+      "teamName": "ENG",
+      "matches": "3",
+      "wins": "1",
+      "losses": "1",
+      "draws": "1",
+      "points": "3",
+      "runrate": "+3.081"
+    },
+    {
+      "teamName": "NAM",
+      "matches": "3",
+      "wins": "1",
+      "losses": "2",
+      "draws": "0",
+      "points": "2",
+      "runrate": "-2.098"
+    },
+    {
+      "teamName": "OMA",
+      "matches": "4",
+      "wins": "0",
+      "losses": "4",
+      "draws": "0",
+      "points": "0",
+      "runrate": "-3.062"
+    } , 
+    {
+      "teamName": "Group C",
+      "matches": "",
+      "wins": "",
+      "losses": "",
+     "draws": "",
+      "points": "",
+      "runrate": ""
+    } ,
+    {
+      "teamName": "AFG",
+      "matches": "3",
+      "wins": "3",
+      "losses": "0",
+      "draws": "0",
+      "points": "6",
+      "runrate": "+4.230"
+    }  ,
+    {
+      "teamName": "WI",
+      "matches": "3",
+      "wins": "3",
+      "losses": "0",
+      "draws": "0",
+      "points": "6",
+      "runrate": "+2.596"
+    },
+    {
+      "teamName": "UGA",
+      "matches": "3",
+      "wins": "1",
+      "losses": "2",
+      "draws": "0",
+      "points": "2",
+      "runrate": "-4.217"
+    }  ,
+    {
+      "teamName": "PNG",
+      "matches": "3",
+      "wins": "0",
+      "losses": "3",
+      "draws": "0",
+      "points": "0",
+      "runrate": "-0.886"
+    },
+    {
+      "teamName": "NZ",
+      "matches": "2",
+      "wins": "0",
+      "losses": "2",
+      "draws": "0",
+      "points": "0",
+      "runrate": "-2.425"
+    }, 
+    {
+      "teamName": "Group D",
+      "matches": "",
+      "wins": "",
+      "losses": "",
+     "draws": "",
+      "points": "",
+      "runrate": ""
+    }  ,
+    {
+      "teamName": "SA",
+      "matches": "3",
+      "wins": "3",
+      "losses": "0",
+      "draws": "0",
+      "points": "6",
+      "runrate": "+0.603"
+    },
+    {
+      "teamName": "BAN",
+      "matches": "3",
+      "wins": "2",
+      "losses": "1",
+      "draws": "0",
+      "points": "4",
+      "runrate": "+0.478"
+    } ,
+    {
+      "teamName": "NED",
+      "matches": "3",
+      "wins": "1",
+      "losses": "2",
+      "draws": "0",
+      "points": "2",
+      "runrate": "-0.408"
+    } ,
+    {
+      "teamName": "NEP",
+      "matches": "2",
+      "wins": "0",
+      "losses": "1",
+      "draws": "1",
+      "points": "1",
+      "runrate": "-0.539"
+    },
+    {
+      "teamName": "SL",
+      "matches": "3",
+      "wins": "0",
+      "losses": "2",
+      "draws": "1",
+      "points": "1",
+      "runrate": "-0.777"
+    }
+  ],
+  "points_url": "https://www.google.com/search?client=firefox-b-d&q=t2+world+cup+schedule#sie=lg;/g/11h9kdbjq6;5;/m/026y268;st;fp;1;;;"
+}
