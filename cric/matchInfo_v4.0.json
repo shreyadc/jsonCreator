@@ -13,7 +13,7 @@
 "shouldFetchDataFromAPICricket": true,
 "shouldDisplayPointsTableFromFBServer":false,
 "featureTournamentName":"T20 WC",
-"featureTournamentURL":"https://pastebin.com/raw/CqzeSxAi",
+"featureTournamentURL":"https://raw.githubusercontent.com/shreyadc/jsonCreator/main/cric/iccT20wc.json",
 "featureTeams":[
    {
     "teamName":"Afghanistan",
